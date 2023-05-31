@@ -28,3 +28,5 @@ time.sleep(1)
 screenshot = pyautogui.screenshot(region=(x, y, width, height))
 
 screenshot.save('img2.png')
+
+
